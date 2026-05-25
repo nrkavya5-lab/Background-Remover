@@ -4,19 +4,9 @@ An AI-powered background remover web application built with React, Express, and 
 
 ## Screenshots
 
-> *Add screenshots here. Recommended screenshots:*
->
-> 1. **Home page** — Drag-and-drop upload interface
-> 2. **Editor** — Before/after slider showing removed background
-> 3. **Background Picker** — Color, gradient, and image replacement options
-> 4. **Image Editor** — Crop, resize, rotate, and adjust controls
-> 5. **Batch Processing** — Upload up to 20 images for bulk processing
-> 6. **Dashboard** — Usage statistics and history
-> 7. **Admin Panel** — User management and analytics charts
->
-> ![Screenshot Placeholder](screenshots/home.png)
-> ![Screenshot Placeholder](screenshots/editor.png)
-> ![Screenshot Placeholder](screenshots/batch.png)
+![Home Page](screenshots/home.png)
+![Product Photo](screenshots/product.png)
+![Thumbnail Maker](screenshots/thumbnail.png)
 
 ## Features
 
